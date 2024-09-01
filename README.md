@@ -45,7 +45,7 @@ To get started with the Pump.Fun Launch Bundle Tool, follow these steps:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/cicero/pumpfun-bundler.git
+    git clone https://github.com/hightechrun/pumpfun-bundling.git
     ```
 
 2. **Navigate to the Project Directory:**
